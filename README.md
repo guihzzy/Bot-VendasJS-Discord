@@ -20,7 +20,7 @@ Antes de começar, certifique-se de ter instalado:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/guihzzy/BotVendas.git
+   git clone https://github.com/guihzzy/Bot-VendasJS-Discord.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
