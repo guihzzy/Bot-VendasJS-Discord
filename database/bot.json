@@ -1,0 +1,39 @@
+{
+    "cor": "#000000",
+    "banner": "",
+    "miniatura": "",
+    "mensagem_compra": {
+        "titulo": "Produto",
+        "desc": "#{desc}\n\n📦 | Nome: #{nome}\n💸 | Preço: R$#{preco}\n🛒 | Estoque: #{estoque}",
+        "rodape": "",
+        "button": {
+            "text": "Comprar",
+            "style": 1,
+            "emoji": "🛒"
+        }
+    },
+    "banks": [],
+    "duvidas": {
+        "status": false,
+        "channel": "",
+        "label": "Suporte",
+        "emoji": "🎫"
+    },
+    "automod": {
+        "autorole": [],
+        "mensagem_auto": {
+            "system": false,
+            "mensagem": []
+        },
+        "boasvindas": {
+            "message": "{member}",
+            "tempoaapgar": 5,
+            "canais": []
+        },
+        "antifake": {
+            "dias": null,
+            "status": [],
+            "nomes": []
+        }
+    }
+}
