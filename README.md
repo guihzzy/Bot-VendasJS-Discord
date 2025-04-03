@@ -81,13 +81,7 @@ BotVendas/
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Se você deseja adicionar novos recursos ou corrigir bugs, siga estes passos:
-
-1. Faça um fork do repositório
-2. Crie uma branch (`git checkout -b minha-feature`)
-3. Faça suas alterações e commit (`git commit -m 'Adicionando nova feature'`)
-4. Envie para o GitHub (`git push origin minha-feature`)
-5. Abra um Pull Request 🚀
+Contribuições são bem-vindas! Se você deseja adicionar novos recursos ou corrigir bugs, fique à vontade!
 
 ## 📜 Licença
 
